@@ -1,2 +1,0 @@
-# ajsonp
-Created with CodeSandbox

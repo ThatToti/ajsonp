@@ -1,0 +1,11 @@
+{
+  "name": "ajsonp",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Toti",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {}
+}
